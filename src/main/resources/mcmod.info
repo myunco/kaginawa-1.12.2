@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kaginawa",
+  "name": "Kaginawa Mod",
+  "description": "The Kaginawa Mod from Bamboo Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["myunco"],
+  "credits": "The Forge and FML guys!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
